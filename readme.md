@@ -1,4 +1,4 @@
-Certainly! Here’s your **README** updated with the new "How to use" section explaining how to start the system with **start.py** and how to get fresh cookies saved as files, plus some extra explanation to clarify the new file-based architecture - all while keeping your original style and tone intact:
+
 
 ---
 
